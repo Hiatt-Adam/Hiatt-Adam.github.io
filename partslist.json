@@ -1,0 +1,60 @@
+{
+    "Parts": [
+            {
+             "CIMs":17748, 
+             "Name":"Bizerba XC100 Printer", 
+             "Description":"Bizerba XC100 Print Assembly",
+             "Category":"Scales",
+             "Location": "Shelf 1",
+             "Amount": 3
+             },
+            {
+              "CIMs":17738,
+              "Name": "Bizerba XC100 Spool",
+              "Description":"Bizerba XC100 Label Spool",
+              "Category":"Scales",
+              "Location": "Shelf 1",
+              "Amount":4
+              },
+            {
+             "CIMs":12345,
+             "Name":"Lexmark MS711de",
+             "Description": "Lexmark MS711de for FMC and ICC",
+             "Category":"Printers",
+             "Location":"Crash Site",
+             "Amount":1
+             },
+            {
+             "CIMs":23456,
+             "Name":"Bill Acceptor",
+             "Description":"Bill Acceptor for SCO 4.2 and 5.0",
+             "Category":"SCO",
+             "Location":"Shelf 2",
+             "Amount":4
+             },
+            {
+             "CIMs":34567,
+             "Name": "TCU",
+             "Description":"TCU for nextgen registers",
+             "Category":"Registers",
+             "Location":"Shelf 2",
+             "Amount":2
+             },
+            {
+             "CIMs":45678,
+             "Name":"HP Desktop",
+             "Description":"HP Desktop for use by everyone but managers",
+             "Category":"Computers",
+             "Location":"Shelf 2",
+             "Amount":2
+             },
+            {
+             "CIMs":56789,
+             "Name":"HP DL160 HDD",
+             "Description":"HP DL160 G6 160GB 2.5 inch replacement drive",
+             "Category":"Servers",
+             "Location":"Shelf 2",
+             "Amount":6
+             }
+        ]
+    }
